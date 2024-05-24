@@ -7,7 +7,21 @@ Created on Wed May 15 19:48:52 2024
 #==============================================================================
 # EXAMPLE 01 ODS 15
 #==============================================================================
+"""
+Vinuesa et al. (2020) e Isabelle & Westerlund (2022) enfatizan la importancia 
+de la inteligencia artificial (IA) en la conservación ambiental, crucial para 
+alcanzar el Objetivo de Desarrollo Sostenible 15 de la ONU sobre Vida 
+Terrestre. La IA permite monitorear la biodiversidad y gestionar amenazas como 
+incendios y extinción de especies con gran precisión. También facilita la toma 
+de decisiones en tiempo real y promueve la ciencia ciudadana, democratizando 
+la conservación. Subrayan la necesidad de regulación para asegurar un 
+desarrollo sostenible y mantener la transparencia y ética.
 
+Vinuesa, R., Azizpour, H., Leite, I., Balaam, M., Dignum, V., Domisch, S., 
+Felländer, A., Langhans, S. D., Tegmark, M., & Nerini, F. F. (2020). The role 
+of artificial intelligence in achieving the Sustainable Development Goals. 
+Nature Communications, 11(1). https://doi.org/10.1038/s41467-019-14108-y.
+"""
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
